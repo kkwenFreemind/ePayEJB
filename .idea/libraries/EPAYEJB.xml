@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EPAYEJB">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/EPAYEJB.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
